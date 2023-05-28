@@ -3,14 +3,14 @@ This is the code developed for my capstone project of TI4141 Data Analytics cour
 
 I included the notebook file in case you want to view the result direcly from the github page
 
-# Result
+# Results
 ![Cluster Visualization](https://drive.google.com/uc?id=1AoK2TypK4LFE_cBtixN5vYWSsCv6iQqC)
 ## Cluster Profile
-Cluster 0: Highest freq and spending, with the lowest recency (most recent last transactions)
-Cluster 1: Lowest freq and spending, highest recency (oldest last transactions)
-Cluster 2: Intermediate (just between the 0 and 1 cluster)
+* Cluster 0: Highest freq and spending, with the lowest recency (most recent last transactions)
+* Cluster 1: Lowest freq and spending, highest recency (oldest last transactions)
+* Cluster 2: Intermediate (just between the 0 and 1 cluster)
 
 ## Business Implication
-Cluster 0 = Loyal Customer --> give upmost priority and special treatment, avoid churn at every cost
-Cluster 1 = Lost Customer / Bypasser --> They only transact every once in a while, no need to spend resource for this cluster
-Cluster 2 = Opportunity --> Design marketing strategies to increase their value to the supermarket
+* Cluster 0 = Loyal Customer --> give upmost priority and special treatment, avoid churn at every cost
+* Cluster 1 = Lost Customer / Bypasser --> They only transact every once in a while, no need to spend resource for this cluster
+* Cluster 2 = Opportunity --> Design marketing strategies to increase their value to the supermarket
