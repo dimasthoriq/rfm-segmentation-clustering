@@ -4,7 +4,7 @@ This is the code developed for my capstone project of TI4141 Data Analytics cour
 I included the notebook file in case you want to view the result direcly from the github page
 
 # Result
-![Cluster Results](https://drive.google.com/file/d/1AoK2TypK4LFE_cBtixN5vYWSsCv6iQqC/view?usp=sharing "Cluster Visualization")
+![Cluster Visualization](https://drive.google.com/file/d/1AoK2TypK4LFE_cBtixN5vYWSsCv6iQqC/view?usp=sharing)
 ## Cluster Profile
 Cluster 0: Highest freq and spending, with the lowest recency (most recent last transactions)
 Cluster 1: Lowest freq and spending, highest recency (oldest last transactions)
